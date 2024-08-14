@@ -12,3 +12,5 @@ https://www.schrack-seconet.com/company/worth-knowing/customer-magazine/
 
 https://fireecology.springeropen.com/articles/10.1186/s42408-022-00165-0
 [forest fire detection magazine.pdf](https://github.com/user-attachments/files/16608364/forest.fire.detection.magazine.pdf)
+https://www.mdpi.com/2673-4591/62/1/7
+https://www.researchgate.net/publication/377878610_Fire_detection_using_deep_learning_methods
