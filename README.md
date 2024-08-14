@@ -18,3 +18,4 @@ https://www.researchgate.net/publication/377878610_Fire_detection_using_deep_lea
 https://github.com/gunarakulangunaretnam/fire-detection-system-using-python-opencv
 
 https://www.mdpi.com/2571-6255/6/8/315
+https://www.mdpi.com/1424-8220/24/16/5184
