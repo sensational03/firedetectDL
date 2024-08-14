@@ -8,3 +8,4 @@ https://ifpmag.com/articles/
 
 https://www.sciencedirect.com/topics/engineering/fire-detection
 https://journals.sagepub.com/doi/epub/10.1177/1748302619887689
+https://www.schrack-seconet.com/company/worth-knowing/customer-magazine/
