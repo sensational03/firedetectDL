@@ -16,3 +16,5 @@ https://www.mdpi.com/2673-4591/62/1/7
 https://www.researchgate.net/publication/377878610_Fire_detection_using_deep_learning_methods
 
 https://github.com/gunarakulangunaretnam/fire-detection-system-using-python-opencv
+
+https://www.mdpi.com/2571-6255/6/8/315
