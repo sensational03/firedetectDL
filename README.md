@@ -19,3 +19,6 @@ https://github.com/gunarakulangunaretnam/fire-detection-system-using-python-open
 
 https://www.mdpi.com/2571-6255/6/8/315
 https://www.mdpi.com/1424-8220/24/16/5184
+
+
+https://ce.gndec.ac.in/format-for-synopsis.pdf
