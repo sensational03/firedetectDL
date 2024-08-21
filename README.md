@@ -22,3 +22,4 @@ https://www.mdpi.com/1424-8220/24/16/5184
 
 
 https://ce.gndec.ac.in/format-for-synopsis.pdf
+https://chatgpt.com/share/28229f49-90c3-4302-aa99-4ef675b3456d
