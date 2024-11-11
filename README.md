@@ -1,6 +1,6 @@
 # firedetectDL
 Project Development - Fire Detection using Deep Learning CNN
-
+Models Link: https://drive.google.com/drive/folders/1OIWv08V-7BbVQ-bE0yzjrI1aHkUAFZeI?usp=drive_link 
 
 https://www.sciencedirect.com/topics/engineering/fire-detection
 https://www.ijprse.com/2020/Vol1_Iss5_August20/IJPRSE_V1I5_1.pdf
